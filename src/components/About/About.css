@@ -1,0 +1,17 @@
+.bio-container{
+    display: flex;
+    height: 40vh;
+    margin: 80px 20px;
+    background: #fafafa;
+    overflow: hidden;
+    box-shadow: 0 20px 20px -6px rgba(0, 0, 0, 0.4);
+}
+.bio-container > h1{
+    padding-top: 70px;
+    text-align: center;
+}
+.bio-container > p{
+    padding-left: 40px;
+    padding-top: 20px;
+    line-height: 30px;
+}

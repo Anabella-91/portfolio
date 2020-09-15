@@ -1,0 +1,11 @@
+.contact-container{
+    height: 20vh;
+    margin: 80px 20px;
+    text-align: center;
+}
+.contact-container > hr{
+    margin-top: 50px;
+    width: 8%;
+    height: 2px;
+    background-color: #22a392;
+}

@@ -1,0 +1,22 @@
+.header-container{
+    text-align: center;
+    margin-top: 100px;
+    color: #222424;
+}
+.header-container > hr{
+    margin-top: 50px;
+    width: 8%;
+    height: 2px;
+    background-color: #22a392;
+}
+.header-container > i > a{
+    margin-left: 20px;
+    color: #222424;
+    text-decoration: none;
+}
+.header-container > i > a:hover{
+    color: #22a392;
+}
+.header-container > i{
+    margin: 20px;
+}
