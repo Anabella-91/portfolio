@@ -14,8 +14,8 @@ const Header = () => {
                 2000
                 ]}
             /><br/>
-            <i class="fab fa-linkedin-in"><a href='https://www.linkedin.com/in/anabella-da-rocha-940b9267/'>Linkedin</a></i>
-            <i class="fab fa-github"><a href='https://github.com/Anabella-91'>Github</a></i>
+            <i class="fab fa-linkedin-in"><a target='_blank' href='https://www.linkedin.com/in/anabella-da-rocha-940b9267/'>Linkedin</a></i>
+            <i class="fab fa-github"><a target='_blank' href='https://github.com/Anabella-91'>Github</a></i>
             <hr/>
         </div>
     )
