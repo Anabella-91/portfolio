@@ -7,11 +7,11 @@ const Tech = () => {
             <h1>What can I do?</h1>
             <img src='./html.png'/>
             <img src='./css.png'/>
-            <img src='./js.png'/>
-            <img src='./react.svg'/>
+            <img style={{height: '100px'}}src='./js.png'/>
+            <img src='./react.jpg'/>
             <img src='./node.png'/>
             <img src='./mysql.png'/>
-            <img src='./mongodb.png'/>
+            <img style={{width: '100px'}}src='./mongodb.png'/>
         </div>
     )
 };
