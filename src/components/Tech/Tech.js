@@ -8,10 +8,11 @@ const Tech = () => {
             <img src='./html.png'/>
             <img src='./css.png'/>
             <img style={{height: '100px'}}src='./js.png'/>
-            <img src='./react.jpg'/>
+            <img src='./react.png'/>
             <img src='./node.png'/>
             <img src='./mysql.png'/>
-            <img style={{width: '100px'}}src='./mongodb.png'/>
+            <img style={{width: '150px', height: '40px'}}src='./mongodb.png'/>
+            <img src='./git.png'/>
         </div>
     )
 };
