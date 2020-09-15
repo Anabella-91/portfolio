@@ -20,3 +20,10 @@
 .header-container > i{
     margin: 20px;
 }
+
+@media screen and (max-width: 992px){
+    .header-container > hr{
+        margin-top: 50px;
+        margin-left: 250px;
+    }    
+}

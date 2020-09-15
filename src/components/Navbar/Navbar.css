@@ -10,7 +10,7 @@
     z-index: 999;
   }
   .navbar-container {
-    width: 80%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +63,7 @@
   .menu-icon {
     display: none;
   }
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 992px) {
     .NavbarItems {
       position: relative;
     }
@@ -100,14 +100,6 @@
       color: #242424;
       border-radius: 0;
     }
-  
-    .navbar-logo {
-      position: absolute;
-      top: 0;
-      left: 0;
-      transform: translate(25%, 50%);
-    }
-  
     .menu-icon {
       display: block;
       position: absolute;
