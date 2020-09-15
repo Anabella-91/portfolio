@@ -1,0 +1,24 @@
+.tech-container{
+    background: #fafafa;
+    margin: 80px 20px;
+    padding: 80px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-shadow: 0 20px 20px -6px rgba(0, 0, 0, 0.4);
+}
+.tech-container img{
+    width: 50px;
+    height: 50px;
+}
+
+@media screen and (max-width: 992px){
+    .tech-container h1{
+        padding: 50px;
+        text-align: center;
+    }
+    .tech-container img{
+        margin: 10px;
+    }
+}

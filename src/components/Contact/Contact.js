@@ -6,7 +6,6 @@ const Contact = () => {
         <div className='contact-container' id='contact'>
             <h3>Let's talk</h3>
             <p>ana.da.rocha@hotmail.com</p>
-            <hr/>
         </div>
     )
 }
