@@ -91,7 +91,7 @@
         align-items: center;
     }
     .container .card{
-        width: 400px;
+        width: 100%;
     }
 }
 @media (max-width: 768px){

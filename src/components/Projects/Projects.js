@@ -6,7 +6,7 @@ function Projects() {
         <div className='container' id='projects'>
             <div className='card'>
                 <div className='imgBx' data-text='Youtube'>
-                    <img src='./1-youtube.png'/>
+                    <img alt='Youtube' src='./1-youtube.png'/>
                 </div>
                 <div className='content'>
                     <div>
@@ -18,7 +18,7 @@ function Projects() {
             </div>
             <div className='card'>
                 <div className='imgBx' data-text='Chat'>
-                    <img src='./1-chat.png'/>
+                    <img alt='Chat' src='./1-chat.png'/>
                 </div>
                 <div className='content'>
                     <div>
@@ -30,7 +30,7 @@ function Projects() {
             </div>
             <div className='card'>
                 <div className='imgBx' data-text='TRVL'>
-                    <img src='./1-trvl.png'/>
+                    <img alt='TRVL' src='./1-trvl.png'/>
                 </div>
                 <div className='content'>
                     <div>
