@@ -102,6 +102,7 @@
     }
     .container .card .imgBx{
         position: relative;
+        width: 100%;
     }
     .container .card .imgBx,
     .container .card:hover .imgBx{
