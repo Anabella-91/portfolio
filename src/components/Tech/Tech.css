@@ -9,8 +9,7 @@
     box-shadow: 0 20px 20px -6px rgba(0, 0, 0, 0.4);
 }
 .tech-container img{
-    width: 100px;
-    height: 80px;
+    width: 150px;
 }
 
 @media screen and (max-width: 992px){
