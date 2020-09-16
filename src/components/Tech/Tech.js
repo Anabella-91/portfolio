@@ -12,8 +12,8 @@ const Tech = () => {
             <img src='./react.png'/>
             <img src='./node.png'/>
             <img src='./mysql.png'/>
-            <img src='./mongodb.png'/>
-            <img src='./git.png'/>
+            <img style={{width: '150px'}} src='./mongodb.png'/>
+            <img style={{width: '150px'}} src='./git.png'/>
             </div>
         </div>
     )
