@@ -8,11 +8,13 @@
     justify-content: space-around;
     box-shadow: 0 20px 20px -6px rgba(0, 0, 0, 0.4);
 }
-.tech-container{
-    padding-top: 20px;
+.logos{
+    display: flex;
+    margin-top: 50px;
 }
 .tech-container img{
-    width: 150px;
+    width: 100px;
+    height: 100px;
 }
 
 @media screen and (max-width: 992px){
