@@ -8,6 +8,9 @@
     justify-content: space-around;
     box-shadow: 0 20px 20px -6px rgba(0, 0, 0, 0.4);
 }
+.tech-container{
+    padding-top: 20px;
+}
 .tech-container img{
     width: 150px;
 }
