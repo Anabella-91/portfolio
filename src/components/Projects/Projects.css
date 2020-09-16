@@ -49,7 +49,7 @@
     height: 100%;
     text-align: center;
     font-size: 6em;
-    color: rgba(255,255,255,.05);
+    color: rgba(255, 255, 255, 0.432);
     font-weight: 700;
 }
 .container .card .imgBx img{
@@ -111,7 +111,7 @@
     }
     .container .card .imgBx img,
     .container .card:hover .imgBx img{
-        max-width: 100px;
+        max-width: 400px;
     }
     .container .card .content{
         position: relative;
