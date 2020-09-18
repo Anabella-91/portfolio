@@ -9,6 +9,7 @@
     box-shadow: 0 20px 20px -6px rgba(0, 0, 0, 0.4);
 }
 .logos{
+    width: 100%;
     display: flex;
     margin-top: 50px;
 }
@@ -19,12 +20,12 @@
 
 @media screen and (max-width: 992px){
     .logos{
+        width: 100%;
         display: flex;
         flex-direction: column;
+        align-items: center;
     }
-    h1{
-        margin-top: 350px;
-    }
+    
     
     
 }
